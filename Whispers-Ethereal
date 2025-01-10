@@ -1,32 +1,6 @@
---[[
-    !!!SOURCE CODE LEAK!!!
-
-             _nnnn_                      
-        dGGGGMMb     ,"""""""""""""""""".
-       @p~qp~~qMb    | Get Doxxed Nigga |
-       M|@||@) M|   _;..................'
-       @,----.JM| -'
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMM|   .'
-     `-'       `--' 
-                                                                            
-    [ CREDITS ]                                                                
-    ╔═════════════════════════════════════════════════════╗
-    ║ Main: Derek Lippe                                   ║
-    ╚═════════════════════════════════════════════════════╝
-
+--[[    
     Cleaned version of the script. All telementry has been removed.
-    Archived links incase of deletion.
-    
-    https://raw.githubusercontent.com/Ethereal58/Ethereal/main/Fonts/Proggy
+    Archived links incase of deletion.   https://raw.githubusercontent.com/Ethereal58/Ethereal/main/Fonts/Proggy
     > https://archive.is/aWR8K
     > https://web.archive.org/web/20240922012649/https://raw.githubusercontent.com/Ethereal58/Ethereal/main/Fonts/Proggy
 
@@ -39,7 +13,7 @@ _)      \.___.,|     .'
     Trust me, you'll get it. Yeah, it is weird, but you're not thinking of it in that moment," stated Derek Lippe.
 
 
-    ~~ your friend, panicspace & spetsnazcall ❤️❤️
+    ~~ your friend, panicspace & spetsnazcall ❤️❤️ (The masters)
 ]]
 
 --[[
@@ -17921,7 +17895,8 @@ do --// UI setup
 
                 do --// Visuals tab 
                     local VisualsTab = Window:NewTab({Name = "Visuals", IncludeNested = true});
-                    --// project delta esp
+                    
+--// project delta esp
                     do --// ESP Tab
                         local ESPTab = VisualsTab:Add({Name = "ESP"});
                         do --// Players section
